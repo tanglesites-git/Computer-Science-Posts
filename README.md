@@ -1,2 +1,4 @@
 # Computer-Science-Posts
-A collection of posts on CS concepts.
+
+# TOC
+### [Polymorphism](./posts/polymorphism.md)
